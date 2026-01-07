@@ -1,0 +1,4 @@
+baseURL = 'https://endlegalrape.org/'
+   languageCode = 'en-us'
+   title = 'End Legal Rape'
+   theme = 'ananke'
