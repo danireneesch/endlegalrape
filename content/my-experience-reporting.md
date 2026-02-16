@@ -1,6 +1,12 @@
 ---
 title: "My Experience Reporting"
 date: 2026-02-16
+description: "What happened when I reported my sexual assault to police and tried to get a protective order. The system failed at every step."
+featured_image: "/images/reporting-assault.png"
+---
+
+**Content warning: This article contains references to sexual assault, police indifference, and suicidal ideation.**
+
 ---
 
 # Reporting Sexual Assault - My Experience

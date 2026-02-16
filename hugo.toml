@@ -1,4 +1,8 @@
 baseURL = 'https://endsv.org/'
-   languageCode = 'en-us'
-   title = 'End Sexual Violence'
-   theme = 'ananke'
+languageCode = 'en-us'
+title = 'End Sexual Violence'
+theme = 'ananke'
+
+[params]
+  description = "Documenting how sexual violence is functionally legal and building transformative justice alternatives"
+  images = ["/images/endsv-logo-square.png"]
