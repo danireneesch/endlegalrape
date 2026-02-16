@@ -1,25 +1,18 @@
 ---
-title: "End Legal Rape"
+title: "End Sexual Violence"
 ---
 
+# OUR SYSTEM DOES NOT PROTECT US
 
-# RAPE IS LEGAL
+In 97.5% of cases, perpetrators of sexual assault face no consequences.
 
+This isn't justice. This is a system designed to fail victims—and incarceration isn't the answer.
 
-In 97.5% of cases, perpetrators of sexual violence face no consequences.
-
-
-This isn't justice. This is a system designed to fail victims.
-
-
-**Let's change it.**
-
+**Let's build something better.**
 
 ---
-
 
 ## The Problem
-
 
 - Only 310 out of 1,000 sexual assaults are reported to police
 - Only 50 lead to arrest
@@ -27,36 +20,26 @@ This isn't justice. This is a system designed to fail victims.
 - Only 25 are incarcerated
 - **97.5% of perpetrators walk free**
 
+The criminal legal system fails survivors while perpetuating cycles of violence and harm.
 
-## Why This Happens
+## A Different Path
 
+The answer isn't more incarceration—it's transformative justice:
 
-State rape laws are designed to exclude most rape:
-
-
-- Require proof of "resistance" and exclude tonic immobility (but 70% of victims freeze)
-- Exclude victims with disabilities that are temporary or situational
-- Prioritize defendant's perspective over victim's reality
-- Make prosecution nearly impossible
-
-
-**Most rape is functionally legal.**
-
-
----
-
+- Community accountability
+- Survivor-centered healing
+- Addressing root causes of violence
+- Building systems that actually prevent harm
 
 ## What We're Doing
 
-
 - Documenting system failures
-- Sharing victim stories
-- Proposing legal reforms
-- Building resources for advocacy
+- Sharing survivor stories
+- Exploring transformative justice alternatives
+- Building resources for healing and accountability
 
-
-**Coming soon:** State-by-state rape law analysis, victim stories, action items.
-
+**Coming soon:** Transformative justice resources, survivor stories, community accountability models.
 
 ---
+
 *This site is under construction. More resources coming soon.*
