@@ -1,15 +1,13 @@
 ---
 title: "My Experience Reporting"
 date: 2026-02-16
-description: "What happened when I reported my sexual assault to police and tried to get a protective order. The system failed at every step."
+description: "There is no justice for survivors in Southern Indiana."
 featured_image: "/images/reporting-assault.png"
 ---
 
 **Content warning: This article contains references to sexual assault, police indifference, and suicidal ideation.**
 
 ---
-
-# Reporting Sexual Assault - My Experience
 
 In March of last year, some mailers went out to raise awareness of the local Sexual Assault Response Team, endorsed by Prosecutor Diana Moers. A few bright yellow billboards popped up around town. “Sexually assaulted? Call 911,” they read. Driving down the road one day, it hit me - what my doctor explained was a PTSD flashback - the memory of someone handing me a SART flyer. “This is for you,” they said. Was it a joke? No. It was a confession. Not a confession of guilt, but a confession of conceit. Five months earlier that person had exploited my cognitive disability to rape me. It was a misunderstanding, I thought. It was my fault for freezing up and not being able to speak and not understanding what was happening until it did. It wasn't intentional. It couldn't be. We could talk it through…but why wouldn't they talk about it? Now I knew. They wanted me to know. Handing me that flyer meant, “Go ahead. Call the number. Nothing’s going to happen to me.” So I called the number. I reached out. I pled for my safety, for others’, for justice…and no one did a thing.
 

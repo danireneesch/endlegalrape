@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>End Sexual Violence</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on End Sexual Violence</description>
+    <image>
+      <title>End Sexual Violence</title>
+      <url>http://localhost:1313/images/endsv-logo.png</url>
+      <link>http://localhost:1313/images/endsv-logo.png</link>
+    </image>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Experience Reporting</title>
+      <link>http://localhost:1313/articles/my-experience-reporting/</link>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/my-experience-reporting/</guid>
+      <description>There is no justice for survivors in Southern Indiana.</description>
+    </item>
+    <item>
+      <title>Tonic Immobility</title>
+      <link>http://localhost:1313/articles/tonic-immobility/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/tonic-immobility/</guid>
+      <description>&lt;p&gt;We all know about the “freeze” response, that deer-in-the-headlights look:&lt;/p&gt;
+&lt;p&gt;You’re home alone and hear the back doorknob jiggle. Your eyes go wide, your hair stands on end, you hold your breath and stay very, very still. You think of grabbing a weapon, but your feet are rooted to the floor. You close your eyes and hope whoever is there goes away.&lt;/p&gt;
+&lt;p&gt;You’re camping in the woods. You suddenly wake up in the middle of the night. You hold your breath and listen. There’s a snuffling sound outside your tent. You can sense something large moving around—a bear. You lay stock still and wait for it to leave.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

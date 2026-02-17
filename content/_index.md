@@ -38,8 +38,8 @@ The answer isn't more incarceration—it's transformative justice:
 - Exploring transformative justice alternatives
 - Building resources for healing and accountability
 
-**Coming soon:** Transformative justice resources, survivor stories, community accountability models.
-
 ---
 
-*This site is under construction. More resources coming soon.*
+*This site is under construction. More content is on the way.*
+
+---

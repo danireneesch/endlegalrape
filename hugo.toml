@@ -1,8 +1,25 @@
 baseURL = 'https://endsv.org/'
 languageCode = 'en-us'
 title = 'End Sexual Violence'
-theme = 'ananke'
+theme = 'PaperMod'
 
 [params]
   description = "Documenting how sexual violence is functionally legal and building transformative justice alternatives"
-  images = ["/images/endsv-logo-square.png"]
+  ShowReadingTime = false
+  ShowShareButtons = true
+  ShowPostNavLinks = false
+  ShowBreadCrumbs = false
+  ShowCodeCopyButtons = false
+  disableSpecial1stPost = true
+  images = ["/images/endsv-logo.png"]
+
+# Add navigation menu
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Articles"
+  url = "/articles/"
+  weight = 2
