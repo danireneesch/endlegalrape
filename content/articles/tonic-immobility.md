@@ -1,5 +1,9 @@
 ---
 title: "Tonic Immobility"
+date: 2026-02-16
+description: "70% of rape victims freeze during assault—the law treats this survival mechanism as consent"
+cover:
+  image: "/images/tonic-immobility.jpg"
 ---
 
 

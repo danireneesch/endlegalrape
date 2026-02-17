@@ -1,7 +1,7 @@
 ---
-title: "My Experience Reporting"
+title: "Reporting Assault: My Experience"
 date: 2026-02-16
-description: "What happened when I reported my sexual assault to police and tried to get a protective order. There is no justice for survivors in Southern Indiana."
+description: "There is no justive for survivors in Southern Indiana."
 cover:
   image: "/images/reporting-assault.jpg"
 ---

@@ -11,10 +11,11 @@
     <loc>http://localhost:1313/articles/my-experience-reporting/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/articles/tonic-immobility/</loc>
+    <lastmod>2026-02-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-  </url><url>
-    <loc>http://localhost:1313/articles/tonic-immobility/</loc>
   </url>
 </urlset>
