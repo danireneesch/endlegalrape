@@ -1,11 +1,10 @@
 ---
 title: "Tonic Immobility"
-date: 2026-02-16
+date: 2026-01-26
 description: "70% of rape victims freeze during assault—the law treats this survival mechanism as consent"
 cover:
   image: "/images/tonic-immobility.jpg"
 ---
-
 
 We all know about the “freeze” response, that deer-in-the-headlights look:
 
@@ -19,14 +18,10 @@ Tonic immobility is a very common and very normal reaction to sexual assault. In
 
 The way many states’ rape laws are worded, tonic immobility is considered consent, not lack thereof. In fact, only 5 states have enacted laws that require affirmative consent. About half don’t even define consent. That means most rape cannot be prosecuted—it is technically legal.
 
-
 ---
 
-
-** Sources**
-
+**Sources**
 
 "In Defining Consent, There's a Gap between the Law, Culture." *AP News*, 20 May 2019, [apnews.com/general-news-d761c7a5824c4932bce440f5adbb90f8](https://apnews.com/general-news-d761c7a5824c4932bce440f5adbb90f8).
-
 
 Möller A, Söndergaard HP, Helström L. Tonic immobility during sexual assault - a common reaction predicting post-traumatic stress disorder and severe depression. *Acta Obstet Gynecol Scand.* 2017 Aug;96(8):932-938. doi: 10.1111/aogs.13174. Epub 2017 Jun 22. PMID: 28589545.
