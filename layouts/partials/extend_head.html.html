@@ -7,7 +7,7 @@
 {{ with .Params.featured_image }}
 <meta property="og:image" content="{{ . | absURL }}">
 {{ else }}
-<meta property="og:image" content="{{ "/images/endsv-logo-wide.png" | absURL }}">
+<meta property="og:image" content="{{ "/images/endsv-logo-wide.jpg" | absURL }}">
 {{ end }}
 
 <!-- Twitter -->
@@ -18,5 +18,5 @@
 {{ with .Params.featured_image }}
 <meta name="twitter:image" content="{{ . | absURL }}">
 {{ else }}
-<meta name="twitter:image" content="{{ "/images/endsv-logo-wide.png" | absURL }}">
+<meta name="twitter:image" content="{{ "/images/endsv-logo-wide.jpg" | absURL }}">
 {{ end }}

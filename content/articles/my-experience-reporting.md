@@ -2,7 +2,7 @@
 title: "My Experience Reporting"
 date: 2026-02-16
 description: "There is no justice for survivors in Southern Indiana."
-featured_image: "/images/reporting-assault.png"
+featured_image: "/images/reporting-assault.jpg"
 ---
 
 **Content warning: This article contains references to sexual assault, police indifference, and suicidal ideation.**
