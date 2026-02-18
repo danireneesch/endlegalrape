@@ -3,10 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/articles/</loc>
-    <lastmod>2026-02-17T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/articles/culture-of-silence-poem/</loc>
+    <lastmod>2026-02-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-17T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/articles/why-we-dont-report/</loc>
     <lastmod>2026-02-17T00:00:00+00:00</lastmod>
@@ -15,7 +18,7 @@
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/articles/tonic-immobility/</loc>
-    <lastmod>2026-02-16T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>

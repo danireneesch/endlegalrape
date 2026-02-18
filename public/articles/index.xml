@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.154.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Culture of Silence</title>
+      <link>http://localhost:1313/articles/culture-of-silence-poem/</link>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/culture-of-silence-poem/</guid>
+      <description>a poem</description>
+    </item>
     <item>
       <title>Why We Don&#39;t Report</title>
       <link>http://localhost:1313/articles/why-we-dont-report/</link>
@@ -30,7 +37,7 @@
     <item>
       <title>Tonic Immobility</title>
       <link>http://localhost:1313/articles/tonic-immobility/</link>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/articles/tonic-immobility/</guid>
       <description>70% of rape victims freeze during assault—the law treats this survival mechanism as consent</description>
     </item>
